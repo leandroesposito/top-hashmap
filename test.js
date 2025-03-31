@@ -1,7 +1,5 @@
 import HashMap from "./HashMap.js";
 
-let h = new HashMap();
-
 const test = new HashMap();
 
 test.set("apple", "red");
